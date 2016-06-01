@@ -1,4 +1,3 @@
-layout_spectrum: 0.09565491368994117
 typography_spectrum: 0.5030344717670232
 color:
   brandStrength: 0.4992803414352238
@@ -11,8 +10,10 @@ color:
     - '#FDE792'
     - '#477725'
     - '#A9CC66'
-name: Rockhouse Farm
+layout_spectrum: 0.09565491368994117
 author:
   email: james@rockhouse.farm
   url: 'http://rockhouse.farm'
   name: James Lacey
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3ac5f5c-34b0-4ed9-adc0-55ac445c898b.jpg'
+name: Rockhouse Farm
