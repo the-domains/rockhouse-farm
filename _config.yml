@@ -12,3 +12,7 @@ color:
     - '#477725'
     - '#A9CC66'
 name: Rockhouse Farm
+author:
+  email: james@rockhouse.farm
+  url: 'http://rockhouse.farm'
+  name: James Lacey
