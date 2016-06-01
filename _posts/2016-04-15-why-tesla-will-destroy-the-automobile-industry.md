@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-01T05:29:00.374Z'
+datePublished: '2016-06-01T05:29:00.887Z'
 sourcePath: _posts/2016-04-15-why-tesla-will-destroy-the-automobile-industry.md
 inFeed: true
 isBasedOnUrl: 'http://www.inc.com/geoffrey-james/why-tesla-will-destroy-the-automobile-industry.html?cid=sf01002&sr_share=facebook'
@@ -20,7 +20,7 @@ author:
   - name: Geoffrey James
     url: 'http://www.inc.com/author/geoffrey-james'
     avatar: {}
-dateModified: '2016-06-01T05:28:59.101Z'
+dateModified: '2016-06-01T05:29:00.518Z'
 title: Why Tesla Will Destroy the Automobile Industry
 app_links: []
 publisher:
@@ -31,7 +31,7 @@ publisher:
 description: "If there's an example of a company about to disruptively innovate an entire industry, it's Tesla. Partly, this is because of raw technology--Tesla's is clearly superior to that of its competitors. Partly, it's because Tesla has a more efficient business model. As Slate recently pointed out, Tesla bypasses value-subtracting dealer franchises and universally disliked car salespeople."
 inLanguage: en
 inNav: false
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
