@@ -20,11 +20,11 @@ color:
   brandStrength: 0.4992803414352238
   lightness: 1
   brandColors:
-    - '#5A1F00'
-    - '#D1570D'
-    - '#FDE792'
-    - '#477725'
-    - '#A9CC66'
+    - '#FFFFFF'
+    - '#BFC4C7'
+    - '#231816'
+    - '#4A5A36'
+    - '#82725B'
   rhythmicContrast: 0.6075269
 typography_spectrum: 0.562724
 layout_spectrum: 1
