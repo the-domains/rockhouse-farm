@@ -1,31 +1,31 @@
-typography_spectrum: 0.5030344717670232
-color:
-  saturation: 0.801743711810559
-  brandStrength: 0.4992803414352238
-  rhythmicContrast: 0.6748671506065875
-  brandColors:
-    - '#5A1F00'
-    - '#D1570D'
-    - '#FDE792'
-    - '#477725'
-    - '#A9CC66'
-  lightness: 0.9328222970943898
-layout_spectrum: 1
 author:
   email: james@rockhouse.farm
   url: 'http://rockhouse.farm'
   name: James Lacey
-logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3ac5f5c-34b0-4ed9-adc0-55ac445c898b.jpg'
-name: Rockhouse Farm
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3ac5f5c-34b0-4ed9-adc0-55ac445c898b.jpg'
+color:
+  saturation: 0.2544803
+  brandStrength: 0.4992803414352238
+  lightness: 1
+  brandColors:
+    - '#5A1F00'
+    - '#D1570D'
+    - '#FDE792'
+    - '#477725'
+    - '#A9CC66'
+  rhythmicContrast: 0.6075269
+typography_spectrum: 0.5030344717670232
+layout_spectrum: 1
+name: Rockhouse Farm
