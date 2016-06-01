@@ -1,11 +1,11 @@
 ---
 description: 'Rockhouse was a beautiful place to grow up. Right on the edge of Kyneton, the Campaspe River meandering through the paddocks. That was a long time ago. Since then I’ve moved to Melbourne, grown up, and built a family of my own. The farm is still owned by the family, and is managed by Jon Marshall, he has been with us for 30 years.'
-dateModified: '2016-06-01T06:44:56.839Z'
-datePublished: '2016-06-01T06:46:19.846Z'
+dateModified: '2016-06-01T10:46:57.551Z'
+datePublished: '2016-06-01T10:46:58.638Z'
 title: Where do our animals go?
 author: []
-starred: false
 sourcePath: _posts/2016-06-01-where-do-our-animals-go.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
