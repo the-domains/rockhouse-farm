@@ -18,7 +18,7 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3ac5f5c-34b0-4ed9-adc0-55ac445c898b.jpg
 color:
   saturation: 1
-  brandStrength: 0.9032258
+  brandStrength: 0
   lightness: 1
   brandColors:
     - '#639BD8'
