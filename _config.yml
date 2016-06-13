@@ -17,16 +17,16 @@ collections:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3ac5f5c-34b0-4ed9-adc0-55ac445c898b.jpg
 color:
-  saturation: 0.969534
+  saturation: 1
   brandStrength: 0.9032258
-  lightness: 0.797491
+  lightness: 1
   brandColors:
     - '#639BD8'
     - '#9AD2F7'
     - '#15201C'
     - '#5E652F'
     - '#A17446'
-  rhythmicContrast: 0.8781362
+  rhythmicContrast: 1
 typography_spectrum: 0.562724
 layout_spectrum: 0.3476703
 name: Rockhouse Farm
