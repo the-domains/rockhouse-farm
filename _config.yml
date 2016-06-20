@@ -1,3 +1,7 @@
+name: Rockhouse Farm
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.44023
 author:
   email: james@rockhouse.farm
   url: 'http://rockhouse.farm'
@@ -16,17 +20,27 @@ collections:
       number: 10
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3ac5f5c-34b0-4ed9-adc0-55ac445c898b.jpg
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0.3308271
-  lightness: 1
   brandColors:
     - '#639BD8'
     - '#9AD2F7'
     - '#15201C'
     - '#5E652F'
     - '#A17446'
+  brandStrength: 0.3308271
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 1
-typography_spectrum: 0.08333334
-layout_spectrum: 1
-name: Rockhouse Farm
+purpose: []
