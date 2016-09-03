@@ -1,46 +1,46 @@
-name: Rockhouse Farm
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.44023
-author:
-  email: james@rockhouse.farm
-  url: 'http://rockhouse.farm'
-  name: James Lacey
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3ac5f5c-34b0-4ed9-adc0-55ac445c898b.jpg
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 1
+  brandStrength: 0.3308271
+  rhythmicContrast: 1
   brandColors:
     - '#639BD8'
     - '#9AD2F7'
     - '#15201C'
     - '#5E652F'
     - '#A17446'
-  brandStrength: 0.3308271
   lightness: 1
-  saturation: 1
-  rhythmicContrast: 1
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+author:
+  email: james@rockhouse.farm
+  url: 'http://rockhouse.farm'
+  name: James Lacey
+opengraph:
+  image: null
+  type: null
+  appId: null
+name: Rockhouse Farm
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3ac5f5c-34b0-4ed9-adc0-55ac445c898b.jpg
+typography_spectrum: 0.8637993
+layout_spectrum: 0.3996416
